@@ -29,7 +29,7 @@ function App() {
         >
           Learn React
           <br/>
-          <strong style={{color: "red"}}>Right now: {currentTime}</strong>
+          <strong style={{color: "yellow"}}>Right now: {currentTime}</strong>
         </a>
       </header>
     </div>
